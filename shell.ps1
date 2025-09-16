@@ -1,9 +1,9 @@
 # ====================================================================================
-# SCRIPT NAME: AutoNetworkOutage-V1.ps1
+# SCRIPT NAME: Network-Failover-V1.ps1
 # DESCRIPTION: Monitors primary internet connection and automatically fails over to a
 #              secondary connection (e.g., mobile hotspot) in case of an outage.
 #              Automatically fails back when the primary connection is restored.
-# VERSION:     1.0
+# VERSION:     2.0
 # ====================================================================================
 
 # --- CONFIGURATION ---
